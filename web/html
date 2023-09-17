@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sabil al mukarom</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <nav>
+        <div class="wrapper">
+            <div class="logo"><a href="">Sabil al mukarom</a></div>
+            <div class="menu"></div>
+            <ul>
+                <li><a href="#Home">Home</a></li>
+                <li><a href="#Courses">Courses</a></li>
+                <li><a href="#Tutors">Tutors</a></li>
+                <li><a href="#Patners">Patners</a></li>
+                <li><a href="#Contact">Contact</a></li>
+                <li><a href="" class="tbl-biru">Sign Up</a></li>
+            </ul>
+        </div>
+    </nav>
+    <div class="wrapper">
+        <section id="Home">
+            <img src="terong.jpg" alt="terong.jpg" height="500" width="400">
+            <div class="kolom">
+                <h4 class="Deskripsi">Hallo Perkenalkan</h4>
+                <h1>Nama saya sabil al mukarom Saya lahir di Tegal 09 Juni 2007 dan sg berumur 16 thn saya bersekolah di Smk Telkom Purwokerto cita cita saya ingin menjadi polisi  </h1>
+                 
+                
+                <h4 class="Deskripsi">skill</h4>
+                <h1>CSS DAN HTML</h1>
+                <h1>-Kepanjangan CSS adalah singkatan dari Cascading Style Sheets, yang berguna untuk menyederhanakan proses pembuatan website dengan mengatur elemen di bahasa markup. Pemakaian CSS adalah untuk mendesain website front end.</h1>
+                <h1>-HTML adalah bahasa markup untuk membuat halaman web. Kepanjangan dari HTML adalah Hypertext Markup Language. Artinya, HTML menggunakan simbol tertentu (tag) yang nantinya akan diterjemahkan oleh browser ke halaman web.</h1>
+
+                
+                <h4 class="Deskripsi">skill</h4>
+                <h1>Project saya</h1>
+                https://www.figma.com/file/Eq5gbf1jVA4JMygyelJCej/Untitled?type=design&node-id=0%3A1&mode=design&t=Vvne1hQpCJOHGwMM-1
+                
+            </div>
+        </section>
+    </div>
+</body>
+</html>
